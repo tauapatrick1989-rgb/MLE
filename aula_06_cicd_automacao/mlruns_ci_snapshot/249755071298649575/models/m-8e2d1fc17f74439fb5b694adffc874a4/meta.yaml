@@ -1,0 +1,11 @@
+artifact_location: file:///home/runner/work/introducao-ciclo-de-vida-de-modelos/introducao-ciclo-de-vida-de-modelos/aula_06_cicd_automacao/mlruns_ci/249755071298649575/models/m-8e2d1fc17f74439fb5b694adffc874a4/artifacts
+creation_timestamp: 1768508716626
+experiment_id: '249755071298649575'
+last_updated_timestamp: 1768508719309
+lifecycle_stage: deleted
+model_id: m-8e2d1fc17f74439fb5b694adffc874a4
+model_type: null
+name: model
+source_run_id: 54dd0d063e0d4b4b99f69483f229faba
+status: 2
+status_message: null

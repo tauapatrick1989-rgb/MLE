@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/introducao-ciclo-de-vida-de-modelos/introducao-ciclo-de-vida-de-modelos/aula_06_cicd_automacao/mlruns_ci/249755071298649575/9f8588d9e68d4df4aec6b5de5865ae0f/artifacts
+end_time: 1768509135772
+entry_point_name: ''
+experiment_id: '249755071298649575'
+lifecycle_stage: active
+run_id: 9f8588d9e68d4df4aec6b5de5865ae0f
+run_name: random_forest_training
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768509132953
+status: 3
+tags: []
+user_id: runner
